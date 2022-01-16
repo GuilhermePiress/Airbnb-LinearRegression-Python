@@ -1,6 +1,6 @@
 # Airbnb-LinearRegression-Python
 ### Data Cleansing + Linear Regression with Airbnb
-### I will be using the SF Airbnb rental dataset from Inside Airbnb.
+### I used the SF Airbnb rental dataset to predict the rent value of the houses using Airbnb.
 
 1. Impute missing values
 1. Identify & substitute NaN values to the median of the column
